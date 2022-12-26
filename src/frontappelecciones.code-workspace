@@ -1,0 +1,11 @@
+{
+    "folders": [
+		{
+			"name": "frontappelecciones",
+			"path": ".."
+		}
+	],
+    "settings": {
+        "workbench.colorTheme": "Abyss"
+    }
+}
